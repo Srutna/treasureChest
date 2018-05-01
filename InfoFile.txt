@@ -1,0 +1,9 @@
+.ai files for adobe illustrator.
+.png are the actual files for sprite images.
+.gif are the files used to make the treasure box.
+
+these sprites will be used as a treasure box opening and closing.
+
+Dimensions on GMS are 76 x 89 & the speed of frame moving is 4.
+
+origin middleCenter.
